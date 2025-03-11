@@ -14,6 +14,10 @@ class Sample
       a * b
     end
 
+    def foo()
+      puts "hello"
+    end
+
     def main()
       puts("Hello, world!");
 
