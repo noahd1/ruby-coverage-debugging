@@ -18,6 +18,10 @@ class Sample
       puts "hello"
     end
 
+    def bar()
+      puts "HI"
+    end
+
     def main()
       puts("Hello, world!");
 
