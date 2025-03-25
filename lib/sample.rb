@@ -20,6 +20,7 @@ class Sample
 
     def bar()
       puts "HI"
+      puts "Bar"
     end
 
     def main()
