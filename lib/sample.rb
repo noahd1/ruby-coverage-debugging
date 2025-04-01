@@ -14,6 +14,11 @@ class Sample
       a * b
     end
 
+    def divide(a, b)
+      return 0 if b == 0
+      a / b
+    end
+
     def main()
       puts("Hello, world!");
 
