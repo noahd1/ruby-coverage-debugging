@@ -14,6 +14,10 @@ class Sample
       a * b
     end
 
+    def oo(a, b)
+      a + b
+    end
+
     def main()
       puts("Hello, world!");
 
