@@ -1,4 +1,4 @@
-# Qlty Ruby Coverage Example
+# Qlty Ruby Coverage Example - CHANGES
 
 [Qlty](https://qlty.sh) is a Code Health Platform with support for code coverage.
 
