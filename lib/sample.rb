@@ -15,6 +15,7 @@ class Sample
     end
 
     def main()
+      puts "More here"
       puts("Hello, world!");
 
       puts("3 + 2 = #{add(3, 2)}");
