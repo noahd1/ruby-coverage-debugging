@@ -14,6 +14,10 @@ class Sample
       a * b
     end
 
+    def nothing(a, b)
+      puts "Nothing to see here"
+    end
+
     def main()
       puts("Hello, world!");
 
