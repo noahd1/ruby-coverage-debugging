@@ -10,6 +10,7 @@ SimpleCov.start do
 end
 
 require "sample"
+require "calculator"
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure
